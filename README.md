@@ -22,7 +22,8 @@ Built to explore UI design, API integration, and responsive layouts.
 - 🔍 Search books by title, author, or keyword  
 - 📖 View book details including description and cover  
 - 🎨 Clean and minimal UI  
-- 📱 Fully responsive design  
+- 📱 Fully responsive design and also interative
+  
 
 ---
 
