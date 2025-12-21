@@ -3,13 +3,13 @@
 A clean, modern web application for discovering books using the **Google Books API**.  
 Built to explore UI design, API integration, and responsive layouts.
 
----
+
 
 
 ## 🚀 Live Demo
 👉 https://divyanshugairwal.github.io/bookshelf/
 
----
+
 
 ## 🛠 Tech Stack
 - HTML5  
@@ -17,7 +17,7 @@ Built to explore UI design, API integration, and responsive layouts.
 - JavaScript  
 - Google Books API  
 
----
+
 
 ## ✨ Features
 - 🔍 Search books by title, author, or keyword  
@@ -26,7 +26,7 @@ Built to explore UI design, API integration, and responsive layouts.
 - 📱 Fully responsive design 
   
 
----
+
 
 ## 📌 Why I Built This
 I built **Bookshelf** to practice:
@@ -35,8 +35,6 @@ I built **Bookshelf** to practice:
 - Project structuring and deployment  
 
 This project helped me understand how real web apps fetch and display external data.
-
----
 
 ## 👤 Author
 
